@@ -53,5 +53,6 @@ const utils = require('./main');
 
  ``` const { retry, getIP } = require('./main');
   retry(asyncFunction, 3);
-  console.log(getIP());```
+  console.log(getIP());
+```
 
